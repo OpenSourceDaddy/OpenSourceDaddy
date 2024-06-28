@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OpenSourceDaddy
-- 👀 I’m interested in Makibng OpenSource Great
-- 🌱 I’m currently learning C Ada
+- 👀 I’m interested in Making OpenSource Great
+- 🌱 I’m currently learning C/C++ Ada
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me opensourcedaddy@hotmail.com-
 - 😈 Pronouns: Daddy
